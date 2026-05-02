@@ -122,7 +122,7 @@ main()
 
 ## Acknowledgemnts
 
-MUMDMC2025 competition organizers
+MUMDMC2025 Dataset Creators
 
 PyTorch and timm libraries for pretrained models
 
